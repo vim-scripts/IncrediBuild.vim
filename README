@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=970
+
+This plugin allows building using IncrediBuild, using Vim's quickfix system.
+
+See http://www.xoreax.com/main.htm for more details on IncrediBuild.
